@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "productID": 1,
+      "productName": "Nike Golf White Hat",
+      "productPrice": 350000,
+      "productDetail": "Với chất liệu vải thông thoáng và thiết kế chuẩn form, Nike White Hat sẽ mang lại cảm giác thoải mái nhất cho người đội mà không cảm thấy bất kì sự khó chịu nào.",
+      "productRating": 5.0,
+      "productImg": "https://i.pinimg.com/564x/77/c0/39/77c03925cec810b0021df80db50f4717.jpg"
+    },
+    {
+      "productID": 3,
+      "productName": "PAGYMO Golf Shirt",
+      "productPrice": 550000,
+      "productDetail": "Bạn sẽ trở nên nổi bật hơn với chiếc áo polo của PAGYMO này. Cùng với chất vải thun kèm theo công nghệ Dri-FIT ADV sẽ giúp bạn luôn trong trạng thái thông thoáng và thoải mái nhất",
+      "productRating": 3.5,
+      "productImg": "https://i.pinimg.com/564x/30/1c/94/301c943f9989af1779bac8974b71cd4b.jpg"
+    },
+    {
+      "productID": 2,
+      "productName": "Nike Golf Lime Hat",
+      "productPrice": 350000,
+      "productDetail": "Một chiếc nón chuẩn form, kèm với đó là thiết kế dạng lưới ở mặt sau hỗ trợ việc thoát mồ hôi dễ dàng hơn và đồng thời tạo độ co dãn giúp cho người đội không cảm thấy khó chịu.",
+      "productRating": 4.4,
+      "productImg": "https://i.pinimg.com/564x/20/77/a6/2077a6fe1bcdb4ed57824551381d0541.jpg"
+    },
+
+    {
+      "productID": 4,
+      "productName": "Under Armor Golf Shirt",
+      "productPrice": 450000,
+      "productDetail": "Một chiếc áo đến từ nhà Under Armor luôn khiến cho ta có cảm giác được an tâm cả về chất lượng lẫn ngoại hình.\nChất vải thoáng mát với cổ cao nhằm giữ lại sự lịch lãm nhưng cũng không kém phần thoải mái cho một ngày dài vận động.",
+      "productRating": 4,
+      "productImg": "https://i.pinimg.com/564x/4d/c5/0f/4dc50ff1ad70b0c4ba9eea770a1e2397.jpg"
+    },
+    {
+      "productID": 5,
+      "productName": "WEC On-Air Golf Skirt",
+      "productPrice": 550000,
+      "productDetail": "Được cải tiến từ các sản phẩm đi trước, váy WEC là mẫu váy golf được chỉnh sửa để tối ưu sự vận động từ người mặc, kèm theo đó là 100% sợi vải được làm từ nhựa tái chế sẽ giảm đi đáng kể cân nặng của chiếc váy và thông thoáng hơn cho người mặc.",
+      "productRating": 5,
+      "productImg": "https://i.pinimg.com/564x/62/37/11/6237113b286813d42150b8ce207052cd.jpg"
+    },
+    {
+      "productID": 6,
+      "productName": "Nike Universa Golf Legging",
+      "productPrice": 450000,
+      "productDetail": "Nike Universa tập trung vào sự tự do trong từng bước đi. Bất kể bạn hoạt động ở đâu hay với môn thể thao nào, Nike Universa Legging sẽ luôn là sự lựa chọn tuyệt vời cho bạn.",
+      "productRating": 5,
+      "productImg": "https://i.pinimg.com/564x/d2/f3/60/d2f360ceeabf69b8e9562812ab6c16ea.jpg"
+    },
+    {
+      "productID": 7,
+      "productName": "Callaway V5 Golf Stick",
+      "productPrice": 2350000,
+      "productDetail": "Callway luôn được biết đến là hãng gậy golf ưu tiên tối ưu cân nặng của sản phẩm. Ở phiên bản V5, Callaway còn trình làng cho người dùng thêm nhiều điều bất ngờ cả về chất lượng lẫn ngoại hình. Với gậy Callaway V5, bạn sẽ được nâng cấp trải nghiệm của mình lên một tầm cao mới.",
+      "productRating": 4.8,
+      "productImg": "https://i.pinimg.com/564x/65/c1/de/65c1de29d126bd7c3d94a0d7fd4ed098.jpg"
+    },
+    {
+      "productID": 8,
+      "productName": "TaylorMade's Golf Stick",
+      "productPrice": 3350000,
+      "productDetail": "TaylorMade's là hãng gậy golf còn non trẻ, tuy nhiên điều đó lại giúp cho TaylorMade's trở thành một hãng gậy được biết đến như iPhone trong ngành golf, luôn khiến người dùng trầm trồ về độ tiện dụng và sự sang trọng của mình.",
+      "productRating": 5,
+      "productImg": "https://i.pinimg.com/564x/70/43/26/70432661059a558ffa8c596926630cd0.jpg"
+    },
+    {
+      "productID": 9,
+      "productName": "TaylorMade's Golf bag",
+      "productPrice": 5500000,
+      "productDetail": "Túi golf của TaylorMade's luôn là sản phẩm được săn đón trên thị trường bởi hãng tập trung vào độ tiện dụng và thời thượng của sản phẩm. Túi golf của TaylorMade's được may với hơn 10 túi lớn nhỏ, kèm theo đó là chất liệu vải nylon với khả năng chống nước tốt, và với miệng túi lớn, túi còn có khả năng đựng tới 14 gậy golf.\nVới những đặc điểm trên, túi golf TaylorMade's sẽ luôn là người đồng hành tuyệt vời của bạn.",
+      "productRating": 5,
+      "productImg": "https://i.pinimg.com/564x/9d/53/b7/9d53b70efd12037988869dce3facc11c.jpg"
+    },
+    {
+      "productID": 10,
+      "productName": "Callaway CA-89 Golf bag",
+      "productPrice": 7350000,
+      "productDetail": "Callaway CA-89 là dòng túi golf hiếm hoi được làm từ chất liệu da thật siêu bền, lâu hỏng, chống nước, chống ẩm hiệu quả và luôn mới theo thời gian. Túi golf có độ cứng cao, đứng vững chắc và chịu nén tốt.\nTúi golf CA-89 có khả năng chứa được 13 gậy golf, đầy đủ các gậy và các golfer cần thiết khi lên sân. Đặc biệt túi golf CA-89 còn có năng đựng giày golf riêng biệt nhằm tối ưu độ tiện dụng cho người sử dụng.",
+      "productRating": 5,
+      "productImg": "https://i.pinimg.com/564x/9b/ba/0e/9bba0e218f2b24da05e4f46fe87e918f.jpg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "videoID": 3,
+      "coverPoster": "./assets/images/success.png",
+      "videoURL": "https://drive.usercontent.google.com/download?id=1ZaQ0XkZ-dht352lR1MO2_CZa7iEKGPqe&export=download&authuser=0&confirm=t&uuid=68658a2e-25c5-42a4-9a09-f5d8d700e335&at=AC2mKKRUjWG0bP-1-mwi1IvfudiL:1689925756450",
+      "videoTitle": "Bài tập swing",
+      "videoDate": "18-02-2022",
+      "videoNote": "Bài tập swing bóng ở khoảng cách 10m",
+      "teacherReview": "Tư thế đặt gậy gần chính xác, cần điều chỉnh bóng nằm ở khoảng giữa của mặt trong gậy."
+    },
+    {
+      "videoID": 4,
+      "coverPoster": "./assets/images/success.png",
+      "videoURL": "https://drive.usercontent.google.com/download?id=1OCiyY9MCG7D-SnwKfLQutmleEn7r2rY-&export=download&authuser=0&confirm=t&uuid=49bba464-a0b7-48ee-8cec-309113c40a4d&at=AC2mKKQq4RozFuHyMgoBLBhZWK5h:1689925801879",
+      "videoTitle": "Bài tập putt ",
+      "videoDate": "20-02-2022",
+      "videoNote": "Putt bóng ở khoảng cách 70cm",
+      "teacherReview": "Động tác chuẩn, tư thế chuẩn, điều chỉnh lại lực so với khoảng cách, tập tăng dần khoảng cách tới lỗ."
+    },
+    {
+      "videoID": 5,
+      "coverPoster": "./assets/images/success.png",
+      "videoURL": "https://drive.usercontent.google.com/download?id=1ZdDQIl9JLK7MgSU2AbTwHUCPLzno1Nnv&export=download&authuser=0&confirm=t&uuid=3509e24a-2077-4627-a2b6-863d98d3a04e&at=AC2mKKRfHzo1zOmZsUblK9-AXBet:1689925840530",
+      "videoTitle": "Bài tập putt ",
+      "videoDate": "01-03-2022",
+      "videoNote": "Putt bóng 1 lần duy nhất ở khoảng cách 1m2, dùng gậy ABC",
+      "teacherReview": "Tư thế chuẩn, bóng nằm đúng vị trí, lực chuẩn, mặt gậy còn hơi lệch trái."
+    },
+    {
+      "videoID": 6,
+      "coverPoster": "./assets/images/success.png",
+      "videoURL": "https://drive.usercontent.google.com/download?id=1OD5rYIz7ewfkJEAmLX7N5F92IvETumqF&export=download&authuser=0&confirm=t&uuid=e6bb3c0a-2cee-4f8a-94fe-e9063399d6c2&at=AC2mKKTj83IJRre3ipPabWpaDuJt:1689925870014",
+      "videoTitle": "Bài tập chipping",
+      "videoDate": "07-03-2022",
+      "videoNote": "Chipping bóng ở 7m, lỗ cao 50cm.",
+      "teacherReview": ""
+    }
+  ]
+}

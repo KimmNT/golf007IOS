@@ -1,0 +1,131 @@
+{
+  "courses": [
+    {
+      "courseID": 1,
+      "courseName": "Hướng dẫn động tác Swing",
+      "courseThumbnail": "https://images.pexels.com/photos/6256592/pexels-photo-6256592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "courseVideo": "https://drive.usercontent.google.com/download?id=1W5R2CpfMe6Rj5mjJEiJwgPlZ92M4MBgg&export=download&authuser=0&confirm=t&uuid=cb3b6e7f-4eca-4360-9da8-67c4392de3ff&at=AC2mKKQeEMISMsvG2xnQVm3J3m1e:1689935229223",
+      "courseLevel": "Beginner",
+      "courseContent": [
+        {
+          "contentID": 1,
+          "contentTitle": "Bước 1: Chuẩn bị",
+          "contentText": "Khởi động kỹ cơ thể trước khi luyện tập: Đây là một nguyen tắc cần thực hiện trước khi tập golf để tránh những nguy cơ gặp phải chấn thương. Các golfer nên thực hiện những bài tập khởi động ở cổ tay, ngón tay, đầu gối,….\nSetup tư thế chuẩn: Tư thế chuẩn các golfer nên lưu ý là: 2 chân dang rộng, tay cầm gậy đúng cách\nThả lỏng cơ thể: Khi thực hiện swing, các golfer nên thả lỏng cơ thể toàn bộ"
+        },
+        {
+          "contentID": 2,
+          "contentTitle": "Bước 2: Setup tư thế",
+          "contentText": "Golfer đứng 2 chân dang rộng bằng vai, dồn trọng lượng cơ thể vào cả 2 chân. Nên khụy chân xuống một chút nhưng cần đảm bảo giữ lưng thẳng và mắt nhìn theo bóng."
+        },
+        {
+          "contentID": 3,
+          "contentTitle": "Bước 3: Takeaway",
+          "contentText": "Golfer cầm gậy, đưa gậy lên cao và ra xa khỏi bóng. Lúc này, lực đánh cần dồn vào vai và lưng để giúp cú đánh có lực và ổn định, Mũi gậy nên đưa thẳng lên trời."
+        },
+        {
+          "contentID": 4,
+          "contentTitle": "Bước 4: Backswing",
+          "contentText": "Từ tư thế takeawat, golfer xoay vai và đưa gậy lên cao, dồn trọng lượng cơ thể xuống chân phải. Để tạo khoảng cách lớn nhất với thân người, đưa thẳng tay ra xa nhằm đảm bảo quỹ đạo swing rộng nhất, tròn nhất. Kỹ thuật này giúp bóng sẽ được tối ưu về khoảng cách và tiếp cận mục tiêu chính xác hơn."
+        },
+        {
+          "contentID": 5,
+          "contentTitle": "Bước 5: Top of swing",
+          "contentText": "Khi thực hiện bước này, mũi gậy sẽ hướng tới bóng golf. Sau khi đưa gậy tới gần bóng, người chơi xoay vai hết cỡ theo hướng dánh sao cho lưng đối diện với bóng. Nếu bạn thực hiện đúng động tác, bạn sẽ thấy gậy golf nằm giữa vai và tai của mình."
+        },
+        {
+          "contentID": 6,
+          "contentTitle": "Bước 6: Downswing",
+          "contentText": "Với động tác này, tay phải của các golfer bắt buộc phải cong theo hướng gậy nhằm giữ cho gậy luon nằm trên đường hướng vào bên trọng so với bóng. Lúc này, trọng lượng cơ thể sẽ dồn hết vào chân trái. Do đó, các động tác cần thực hiện nhuần nhuyễn, chuẩn xác để khi chuyển trọng tâm từ chân phải sang chân trái vẫn giúp người chơi trụ vững để thực hiện cú đánh chính xác."
+        },
+        {
+          "contentID": 7,
+          "contentTitle": "Bước 7: Impact",
+          "contentText": "Khởi động kỹ cơ thể trước khi luyện tập: Đây là một nguyen tắc cần thực hiện trước khi tập golf để tránh những nguy cơ gặp phải chấn thương. Các golfer nên thực hiện những bài tập khởi động ở cổ tay, ngón tay, đầu gối,….\nSetup tư thế chuẩn: Tư thế chuẩn các golfer nên lưu ý là: 2 chân dang rộng, tay cầm gậy đúng cách\nThả lỏng cơ thể: Khi thực hiện swing, các golfer nên thả lỏng cơ thể toàn bộ"
+        },
+        {
+          "contentID": 8,
+          "contentTitle": "Bước 8: Follow Through",
+          "contentText": "Sau khi gậy golf tiếp xúc với bóng, golf thủ tiếp tục xoay người, duỗi thẳng cánh tay hết sức và xoay qua thân. Vì trọng lượng cơ thể sẽ dồn sang chân trái nên người chơi cần kiểm soát tốt để không mất trụ, giữ thăng bằng tốt."
+        },
+        {
+          "contentID": 9,
+          "contentTitle": "Bước 9: Finish",
+          "contentText": "Đây là giai đoạn cuối của quá trình swing. Để có tư thế finish đúng và đẹp mắt, golf thủ kết thúc bằng tư thế khi nút khóa lưng đối diện với mục tiêu thì cú swing đã chuẩn xác."
+        }
+      ]
+    },
+    {
+      "courseID": 2,
+      "courseName": "Hướng dẫn động tác Putt",
+      "courseThumbnail": "https://images.pexels.com/photos/1325662/pexels-photo-1325662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "courseVideo": "https://drive.usercontent.google.com/download?id=1OCiyY9MCG7D-SnwKfLQutmleEn7r2rY-&export=download&authuser=0&confirm=t&uuid=49bba464-a0b7-48ee-8cec-309113c40a4d&at=AC2mKKQq4RozFuHyMgoBLBhZWK5h:1689925801879",
+      "courseLevel": "Beginner",
+      "courseContent": [
+        {
+          "contentID": 1,
+          "contentTitle": "Bước 1: Đọc đường Putting",
+          "contentText": "Bước đầu tiên golfer cần thực hiện là đánh giá, “đọc” đường đi giữa bóng và hố. Trường hợp green chắc, cỏ được cắt tỉa cẩn thận và địa hình xuống dốc thì bóng sẽ đi nhanh hơn.\nNgoài ra, hướng của cỏ, điểm chuyển hướng, tốc độ green được thiết lập trong ngày cũng là những yếu tố mà người chơi cần xem xét để xác định được chuyển động bóng, hướng bẻ bóng sang trái hay phải sau cú đánh. "
+        },
+        {
+          "contentID": 2,
+          "contentTitle": "Bước 2: Thiết lập tư thế đứng",
+          "contentText": "Để tập putt golf, người chơi cần có dáng đứng đánh golf chuẩn.\nHướng cơ thể cần song song hướng đánh, trọng tâm dồn nhẹ lên mũi chân, hai vai không quá cao.\nĐầu cần giữ nguyên tại vị trí bóng lúc đầu và mắt không nhất thiết phải liên tục nhìn thẳng xuống hướng đánh.\nNgười chơi đồng thời giữ mặt gậy vuông góc với hướng đánh, chủ yếu sử dụng vai, cánh tay và ngực để kiểm soát gậy và giảm sự tác động của lực bàn tay."
+        },
+        {
+          "contentID": 3,
+          "contentTitle": "Bước 3: Cách cầm gậy putter chuẩn",
+          "contentText": "Cách cầm gậy putter chuẩn được xem là chìa khóa tạo nên thành công cho những cú putting. Khi tập putt golf, người chơi không cần phải dùng quá nhiều lực, chỉ cần cầm gậy lỏng, nhưng chắc tay để đưa gậy lên đều, giữ nhịp độ ổn định. Tốc độ đưa gậy lên ngang bằng một nửa so với tốc độ đưa gậy đi xuống. "
+        },
+        {
+          "contentID": 4,
+          "contentTitle": "Bước 4: Setup và căn chỉnh",
+          "contentText": "Trước khi thực hiện cú gạt bóng, người chơi cần hình dung hướng đi của cú putt đến mục tiêu để có sự căn chỉnh phù hợp.\nBên cạnh đó, người chơi cũng nên kiểm tra lại tư thế đứng, cách cầm gậy và thực hiện những cú gạt bóng nháp để cảm nhận rõ hơn về lực và khoảng cách thực tế."
+        },
+        {
+          "contentID": 5,
+          "contentTitle": "Bước 5: Thực hiện cú putt",
+          "contentText": "Cuối cùng, để thực hiện cú putt bóng, người chơi sẽ giữ đầu gậy ở vị trí thấp so với mặt đất. Cổ tay và phần thân dưới giữ nguyên khi tiếp xúc bóng. Trong khi đó, phần vai sẽ di chuyển để tạo lực cho cú đánh, giúp bóng lăn vào hố chính xác."
+        }
+      ]
+    },
+    {
+      "courseID": 3,
+      "courseName": "Hướng dẫn động tác Chip",
+      "courseThumbnail": "https://images.pexels.com/photos/54123/pexels-photo-54123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "courseVideo": "https://drive.usercontent.google.com/download?id=1OD5rYIz7ewfkJEAmLX7N5F92IvETumqF&export=download&authuser=0&confirm=t&uuid=e6bb3c0a-2cee-4f8a-94fe-e9063399d6c2&at=AC2mKKTj83IJRre3ipPabWpaDuJt:1689925870014",
+      "courseLevel": "Beginner",
+      "courseContent": [
+        {
+          "contentID": 1,
+          "contentTitle": "Bước 1: Thiết lập vị trí low point",
+          "contentText": "Bước đầu tiên để thực hiện chip golf cơ bản đó chính là thiết lập vị trí low point, điều này sẽ giúp điều chỉnh lực tác động đầu tiên vào bóng và phán đoán hướng bay ban đầu. Golfer đặt gậy phía sau lưng bóng, di chuyển lực tay theo phản xạ, nếu đã tập luyện nhiều thì lực tác động ban đầu sẽ khá chính xác.\nVới những người mới chơi, việc lựa chọn low point cũng kém hơn, dẫn tới hướng đi của bóng có thể bị thay đổi so với dự kiến ban đầu. Để cải thiện tình trạng này, golfer cần tập luyện nhiều, lựa chọn lực đưa bóng phù hợp qua nhiều cú đánh và duy trì nó."
+        },
+        {
+          "contentID": 2,
+          "contentTitle": "Bước 2: Thiết lập vị trí của phần vai",
+          "contentText": "Phần vai sẽ tác động chính vào lực của cánh tay khi đánh, nếu golfer dùng gậy Wedge thì nên nghiêng loft từ 52 đến 56 độ hình học. Tốt nhất bạn nên đánh vào phần trung tâm của quá bóng, sau đó dồn trọng lượng của cơ thể về phía trước. Lúc đó phần vai sẽ không làm ảnh hưởng đến lực đánh."
+        },
+        {
+          "contentID": 3,
+          "contentTitle": "Bước 3: Thiết lập fold và unfold",
+          "contentText": "Thực hiện chip golf chính xác không thể thiếu việc xác định fold và unfold. Kỹ thuật này được mô tả như sau: Vai bên phải nâng cao, đồng thời đưa cánh tay phải dài để điều chỉnh lực và khoảng cách đối với bóng. Golfer cần tránh để gấp phần cánh tay và quay phần cổ nhiều, điều này có thể khiến vận động viên bị chấn thương. Nếu áp dụng đúng như vậy thì chip golf sắc nét và chuẩn độ hơn."
+        },
+        {
+          "contentID": 4,
+          "contentTitle": "Bước 4: Kỹ thuật đưa bóng bay thấp",
+          "contentText": "Người chơi muốn thực hiện kỹ thuật này cần đặc biệt lưu ý về khoảng cách giữa hai bên chân, điều này sẽ tác động tới trọng tâm cơ thể và lực đánh ở vai. Với chip golf bóng thấp, hai chân sẽ cần phải thu hẹp khoảng cách và nên thực hiện trong khu vực green bằng phẳng trên sân golf 18 lỗ. Đồng thời nên chọn vị trí green rộng để dễ dàng kiểm soát và phân tích địa hình để dùng lực phù hợp."
+        },
+        {
+          "contentID": 5,
+          "contentTitle": "Bước 5: Chip golf đưa bóng độ cao trung bình",
+          "contentText": "Kỹ thuật này vẫn yêu cầu cao đến khoảng cách giữa hai chân của người chơi, muốn đưa bóng cao hơn thì cần đứng rộng hơn. Đồng thời giữ vững trọng tâm trong suốt quá trình thực hiện để cú đánh đảm bảo được lực đi."
+        },
+        {
+          "contentID": 6,
+          "contentTitle": "Bước 6: Chip golf tầm cao",
+          "contentText": "Golfer cần đánh bóng tiếp cận trực tiếp vào vùng green, điều này nên được thực hiện từ vị trí dốc xuống hoặc những nơi có địa thế trắc trở. Cú đánh này sẽ cần nhiều lực hơn, do vậy khoảng cách giữa hai chân nên để khoảng 50cm, sử dụng gậy có loft khoảng 60 độ. Sau đó, hướng phần mũi chân và mặt gậy vuông góc với mục tiêu."
+        }
+      ]
+    }
+  ]
+}
