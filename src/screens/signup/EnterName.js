@@ -40,7 +40,6 @@ export default function EnterName({navigation}) {
         <Text style={share.signUp_title}>Let's us know your name</Text>
         <View style={share.form__input}>
           <TextInput
-            keyboardType="numeric"
             onChangeText={handleNameInput}
             value={name}
             placeholder="Your name here"

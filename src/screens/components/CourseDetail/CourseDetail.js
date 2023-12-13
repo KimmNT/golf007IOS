@@ -11,18 +11,18 @@ import {
 import React, {useRef, useState} from 'react';
 import share from '../../../../assets/global/styleShare';
 import BackArrow from '../../../../assets/global/BackArrow';
-// import Video from 'react-native-video';
-// import VideoPlayer from 'react-native-video-controls';
+import Video from 'react-native-video';
+import VideoPlayer from 'react-native-video-controls';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
 const height = Dimensions.get('window').height;
 
 export default function CourseDetail({navigation, route}) {
-  // const videoRef = useRef(null);
-  // const [isPlaying, setIsPlaying] = useState(false);
-  // const handlePlayPause = () => {
-  //   setIsPlaying(!isPlaying);
-  // };
+  const videoRef = useRef(null);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const handlePlayPause = () => {
+    setIsPlaying(!isPlaying);
+  };
   const {course} = route.params;
   return (
     <View
@@ -56,7 +56,7 @@ export default function CourseDetail({navigation, route}) {
           <View style={[share.tabItem__container]}>
             <View style={styles.csdetail__container}>
               <View style={styles.csdetail__video_box}>
-                {/* <VideoPlayer
+                <VideoPlayer
                   source={{uri: course.courseVideo}} // Can be a URL or a local file.
                   ref={videoRef} // Store reference
                   resizeMode="cover"
@@ -65,9 +65,9 @@ export default function CourseDetail({navigation, route}) {
                   disablePlayPause
                   disableFullscreen
                   style={styles.csdetail__video}
-                /> */}
+                />
               </View>
-              {/* <View style={styles.control__container}>
+              <View style={styles.control__container}>
                 <Text style={styles.video__status}>
                   {isPlaying ? 'Playing' : 'Paused'}
                 </Text>
@@ -84,7 +84,7 @@ export default function CourseDetail({navigation, route}) {
                     </View>
                   </TouchableOpacity>
                 </View>
-              </View> */}
+              </View>
               <View style={styles.csdetail__list}>
                 {course.courseContent.map(cscontent => (
                   <View key={cscontent.contentID} style={styles.csdetail__item}>
